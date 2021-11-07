@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @halilflex
+- 👀 I'm a Turkish student.
+- 🌱 I’m currently learning ...
+- 💞️ I spend my free time with web-based software pieces of training.
+- 📫 How to reach me ...
+
